@@ -1,0 +1,15 @@
+.form-container {
+  width: 400px;
+  margin: auto;
+}
+
+.ui.green.button:focus,
+.ui.green.buttons .button:focus,
+.ui.green.button:hover,
+.ui.green.buttons .button:hover,
+.ui.basic.button:focus,
+.ui.basic.buttons .button:focus,
+.ui.basic.button:hover,
+.ui.basic.buttons .button:hover {
+  background-color: #21ba45;
+}
