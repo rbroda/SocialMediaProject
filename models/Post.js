@@ -1,5 +1,5 @@
 const { model, Schema } = require("mongoose");
-
+//  Create post db schema
 const postSchema = new Schema({
   body: String,
   username: String,
